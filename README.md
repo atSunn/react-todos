@@ -1,2 +1,2 @@
 # react-todos
-A ToDo application
+A Todo application
