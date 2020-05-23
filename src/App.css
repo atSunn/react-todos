@@ -22,5 +22,41 @@ form {
 }
 .list-wrapper {
   max-height: 200px;
+  
   overflow-y: auto;
+}
+.list-item{
+
+  text-align: left;
+  margin-left: 9px;
+}
+body {
+  padding: 2rem;
+  font-family: Helvetica, sans-serif;
+}
+
+div {
+  text-align: center;
+}
+.buttonc
+{
+  height: 15px;
+  margin-top: -4px;
+  margin-left: 4px;
+}
+input[type="submit"]{
+  color: white;
+  background: green;
+  border: 2px solid blue;
+  border-radius: 4px;
+}
+input[type= "text"] {
+  margin-right: 10px;
+  border-radius: 4px;
+  color: black;
+  background: antiquewhite
+}
+h1.card-header-title{
+  color: green;
+  background-color: whitesmoke;
 }
